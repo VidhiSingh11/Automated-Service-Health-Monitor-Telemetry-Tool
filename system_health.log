@@ -1,0 +1,17 @@
+2025-11-24 20:49:03,284 - INFO - SUCCESS: https://www.google.com | Latency: 2058.31ms | Status: 200
+2025-11-24 20:49:11,469 - INFO - SUCCESS: https://www.github.com | Latency: 8184.26ms | Status: 200
+2025-11-24 20:49:11,797 - INFO - SUCCESS: https://www.microsoft.com | Latency: 328.55ms | Status: 200
+2025-11-24 20:49:14,472 - CRITICAL - DOWN: https://httpstat.us/503 is unreachable
+2025-11-24 20:49:24,841 - INFO - SUCCESS: https://www.google.com | Latency: 369.46ms | Status: 200
+2025-11-24 20:49:26,266 - INFO - SUCCESS: https://www.github.com | Latency: 1422.82ms | Status: 200
+2025-11-24 20:49:27,497 - INFO - SUCCESS: https://www.microsoft.com | Latency: 1231.17ms | Status: 200
+2025-11-24 20:49:29,515 - CRITICAL - DOWN: https://httpstat.us/503 is unreachable
+2025-11-24 20:49:44,871 - ERROR - TIMEOUT: https://www.google.com took longer than 5s
+2025-11-24 20:49:48,751 - INFO - SUCCESS: https://www.github.com | Latency: 3879.58ms | Status: 200
+2025-11-24 20:49:49,497 - INFO - SUCCESS: https://www.microsoft.com | Latency: 745.59ms | Status: 200
+2025-11-24 20:49:50,598 - CRITICAL - DOWN: https://httpstat.us/503 is unreachable
+2025-11-24 20:50:01,169 - INFO - SUCCESS: https://www.google.com | Latency: 569.88ms | Status: 200
+2025-11-24 20:50:05,150 - INFO - SUCCESS: https://www.github.com | Latency: 3980.62ms | Status: 200
+2025-11-24 20:50:07,654 - INFO - SUCCESS: https://www.microsoft.com | Latency: 2502.94ms | Status: 200
+2025-11-24 20:50:09,457 - CRITICAL - DOWN: https://httpstat.us/503 is unreachable
+2025-11-24 20:50:24,210 - INFO - SUCCESS: https://www.google.com | Latency: 4745.61ms | Status: 200
